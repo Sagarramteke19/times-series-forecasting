@@ -13,7 +13,12 @@ This project focuses on building a **forecasting tool** for a walk-in emergency 
 - **Weekly Patterns:**  
   - Peak demand: **Mon, Tue, Fri**  
   - Lower demand: **Sat, Sun**  
-- **Seasonality:** Repeating weekly & yearly patterns, visible spikes (March 2022 surge: +66.7%).  
+- **Seasonality:** Repeating weekly & yearly patterns, visible spikes (March 2022 surge: +66.7%).
+  
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Time Series](https://img.shields.io/badge/Time%20Series-ARIMA%20%7C%20Prophet%20%7C%20HW-orange)
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-informational)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
