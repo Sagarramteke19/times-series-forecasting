@@ -1,5 +1,8 @@
 # ⏱️ Time Series Forecasting – Emergency Clinic Walk-in Patients
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sagarramteke19/times-series-forecasting/blob/main/timeseries.ipynb)
+
 ## 📌 Project Overview
 This project focuses on building a **forecasting tool** for a walk-in emergency clinic to predict patient inflow one month ahead. Using historical data from **April 2021 – February 2024**, various time-series models were applied to forecast the number of patients expected in **March 2024**.
 
