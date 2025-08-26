@@ -49,7 +49,5 @@ This project focuses on building a **forecasting tool** for a walk-in emergency 
 
 ## 📑 Presentation
 Here’s the detailed project presentation:  
-
-## 📑 Presentation
 📄 [View Full Presentation (PDF)](doc/Presentation4.pdf)
 
